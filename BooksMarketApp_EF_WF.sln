@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksMarketApp_EF_WF", "BooksMarketApp_EF_WF\BooksMarketApp_EF_WF.csproj", "{0AD178F7-FD7D-4BC6-A5B6-97093D8AE29D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AD178F7-FD7D-4BC6-A5B6-97093D8AE29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD178F7-FD7D-4BC6-A5B6-97093D8AE29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD178F7-FD7D-4BC6-A5B6-97093D8AE29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD178F7-FD7D-4BC6-A5B6-97093D8AE29D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+﻿bin/
+obj/
+*.mdf
+*.ldf
+*ConnectionString.Local.cs
+
+.idea/
+.idea*/
+**/.idea*/
+*.DotSettings.user
+.vs/
+*.user
+
+packages/
+*.nuget.*
